@@ -1,0 +1,201 @@
+"","boroname","nta_name","total_count"
+"1","5"," ",4150
+"2","5","Annadale-Huguenot-Prince's Bay-Eltingville",13504
+"3","5","Arden Heights",7049
+"4","5","Charleston-Richmond Valley-Tottenville",7169
+"5","5","Grasmere-Arrochar-Ft. Wadsworth",2800
+"6","5","Great Kills",9730
+"7","5","Grymes Hill-Clifton-Fox Hills",2394
+"8","5","Mariner's Harbor-Arlington-Port Ivory-Graniteville",2262
+"9","5","New Brighton-Silver Lake",3807
+"10","5","New Dorp-Midland Beach",5009
+"11","5","New Springville-Bloomfield-Travis",6338
+"12","5","Oakwood-Oakwood Beach",3922
+"13","5","Old Town-Dongan Hills-South Beach",4507
+"14","5","Port Richmond",2036
+"15","5","Rossville-Woodrow",8433
+"16","5","Stapleton-Rosebank",2692
+"17","5","Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill",4814
+"18","5","West New Brighton-New Brighton-St. George",2783
+"19","5","Westerleigh",5026
+"20","Bronx"," ",3657
+"21","Bronx","Allerton-Pelham Gardens",3872
+"22","Bronx","Bedford Park-Fordham North",1226
+"23","Bronx","Belmont",676
+"24","Bronx","Bronxdale",1377
+"25","Bronx","Claremont-Bathgate",652
+"26","Bronx","Co-op City",1920
+"27","Bronx","Crotona Park East",630
+"28","Bronx","East Concourse-Concourse Village",951
+"29","Bronx","East Tremont",1496
+"30","Bronx","Eastchester-Edenwald-Baychester",2014
+"31","Bronx","Fordham South",412
+"32","Bronx","Highbridge",583
+"33","Bronx","Hunts Point",1274
+"34","Bronx","Kingsbridge Heights",654
+"35","Bronx","Longwood",886
+"36","Bronx","Marble Hill-Inwood",338
+"37","Bronx","Melrose South-Mott Haven North",733
+"38","Bronx","Morrisania-Melrose",903
+"39","Bronx","Mott Haven-Port Morris",862
+"40","Bronx","Mount Hope",1002
+"41","Bronx","North Riverdale-Fieldston-Riverdale",3138
+"42","Bronx","Norwood",1366
+"43","Bronx","park-cemetery-etc-Bronx",127
+"44","Bronx","Parkchester",433
+"45","Bronx","Pelham Bay-Country Club-City Island",3038
+"46","Bronx","Pelham Parkway",1811
+"47","Bronx","Schuylerville-Throgs Neck-Edgewater Park",3684
+"48","Bronx","Soundview-Bruckner",1150
+"49","Bronx","Soundview-Castle Hill-Clason Point-Harding Park",2127
+"50","Bronx","Spuyten Duyvil-Kingsbridge",1737
+"51","Bronx","University Heights-Morris Heights",1153
+"52","Bronx","Van Cortlandt Village",1739
+"53","Bronx","Van Nest-Morris Park-Westchester Square",1971
+"54","Bronx","West Concourse",902
+"55","Bronx","West Farms-Bronx River",865
+"56","Bronx","Westchester-Unionport",1233
+"57","Bronx","Williamsbridge-Olinville",2331
+"58","Bronx","Woodlawn-Wakefield",3836
+"59","Brooklyn"," ",3286
+"60","Brooklyn","Bath Beach",1272
+"61","Brooklyn","Bay Ridge",6338
+"62","Brooklyn","Bedford",2144
+"63","Brooklyn","Bensonhurst East",2615
+"64","Brooklyn","Bensonhurst West",3723
+"65","Brooklyn","Borough Park",5073
+"66","Brooklyn","Brighton Beach",1047
+"67","Brooklyn","Brooklyn Heights-Cobble Hill",2051
+"68","Brooklyn","Brownsville",2075
+"69","Brooklyn","Bushwick North",1376
+"70","Brooklyn","Bushwick South",2977
+"71","Brooklyn","Canarsie",6437
+"72","Brooklyn","Carroll Gardens-Columbia Street-Red Hook",3411
+"73","Brooklyn","Clinton Hill",1743
+"74","Brooklyn","Crown Heights North",4343
+"75","Brooklyn","Crown Heights South",2199
+"76","Brooklyn","Cypress Hills-City Line",1614
+"77","Brooklyn","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",3070
+"78","Brooklyn","Dyker Heights",3568
+"79","Brooklyn","East Flatbush-Farragut",2808
+"80","Brooklyn","East New York",3589
+"81","Brooklyn","East New York (Pennsylvania Ave)",1382
+"82","Brooklyn","East Williamsburg",1556
+"83","Brooklyn","Erasmus",812
+"84","Brooklyn","Flatbush",5910
+"85","Brooklyn","Flatlands",5144
+"86","Brooklyn","Fort Greene",1371
+"87","Brooklyn","Georgetown-Marine Park-Bergen Beach-Mill Basin",6730
+"88","Brooklyn","Gravesend",1108
+"89","Brooklyn","Greenpoint",2582
+"90","Brooklyn","Homecrest",3123
+"91","Brooklyn","Hunters Point-Sunnyside-West Maspeth",1
+"92","Brooklyn","Kensington-Ocean Parkway",2002
+"93","Brooklyn","Madison",3146
+"94","Brooklyn","Midwood",4785
+"95","Brooklyn","North Side-South Side",2156
+"96","Brooklyn","Ocean Hill",875
+"97","Brooklyn","Ocean Parkway South",2281
+"98","Brooklyn","Park Slope-Gowanus",5781
+"99","Brooklyn","park-cemetery-etc-Brooklyn",356
+"100","Brooklyn","Prospect Heights",1298
+"101","Brooklyn","Prospect Lefferts Gardens-Wingate",2446
+"102","Brooklyn","Rugby-Remsen Village",2863
+"103","Brooklyn","Seagate-Coney Island",1389
+"104","Brooklyn","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",5243
+"105","Brooklyn","Starrett City",192
+"106","Brooklyn","Stuyvesant Heights",2665
+"107","Brooklyn","Sunset Park East",2104
+"108","Brooklyn","Sunset Park West",1609
+"109","Brooklyn","West Brighton",365
+"110","Brooklyn","Williamsburg",1475
+"111","Brooklyn","Windsor Terrace",1813
+"112","Manhattan"," ",1429
+"113","Manhattan","Battery Park City-Lower Manhattan",945
+"114","Manhattan","Central Harlem North-Polo Grounds",2135
+"115","Manhattan","Central Harlem South",1761
+"116","Manhattan","Chinatown",662
+"117","Manhattan","Clinton",1586
+"118","Manhattan","East Harlem North",1561
+"119","Manhattan","East Harlem South",1136
+"120","Manhattan","East Village",1292
+"121","Manhattan","Gramercy",1080
+"122","Manhattan","Hamilton Heights",1458
+"123","Manhattan","Hudson Yards-Chelsea-Flatiron-Union Square",2174
+"124","Manhattan","Lenox Hill-Roosevelt Island",2204
+"125","Manhattan","Lincoln Square",1804
+"126","Manhattan","Lower East Side",1016
+"127","Manhattan","Manhattanville",544
+"128","Manhattan","Marble Hill-Inwood",680
+"129","Manhattan","Midtown-Midtown South",1123
+"130","Manhattan","Morningside Heights",1818
+"131","Manhattan","Murray Hill-Kips Bay",1598
+"132","Manhattan","park-cemetery-etc-Manhattan",75
+"133","Manhattan","SoHo-TriBeCa-Civic Center-Little Italy",1568
+"134","Manhattan","Stuyvesant Town-Cooper Village",327
+"135","Manhattan","Turtle Bay-East Midtown",2077
+"136","Manhattan","Upper East Side-Carnegie Hill",3854
+"137","Manhattan","Upper West Side",5178
+"138","Manhattan","Washington Heights North",1133
+"139","Manhattan","Washington Heights South",1587
+"140","Manhattan","West Village",3054
+"141","Manhattan","Yorkville",2364
+"142","Queens"," ",11019
+"143","Queens","Airport",12
+"144","Queens","Astoria",3147
+"145","Queens","Auburndale",5104
+"146","Queens","Baisley Park",4259
+"147","Queens","Bayside-Bayside Hills",10713
+"148","Queens","Bellerose",6566
+"149","Queens","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",3944
+"150","Queens","Briarwood-Jamaica Hills",2851
+"151","Queens","Cambria Heights",3075
+"152","Queens","College Point",2358
+"153","Queens","Corona",1950
+"154","Queens","Douglas Manor-Douglaston-Little Neck",6490
+"155","Queens","East Elmhurst",1540
+"156","Queens","East Flushing",3493
+"157","Queens","Elmhurst",3653
+"158","Queens","Elmhurst-Maspeth",2094
+"159","Queens","Far Rockaway-Bayswater",3011
+"160","Queens","Flushing",2619
+"161","Queens","Forest Hills",8175
+"162","Queens","Fresh Meadows-Utopia",3249
+"163","Queens","Ft. Totten-Bay Terrace-Clearview",3331
+"164","Queens","Glen Oaks-Floral Park-New Hyde Park",7012
+"165","Queens","Glendale",4612
+"166","Queens","Hammels-Arverne-Edgemere",1131
+"167","Queens","Hollis",1769
+"168","Queens","Hunters Point-Sunnyside-West Maspeth",4640
+"169","Queens","Jackson Heights",7020
+"170","Queens","Jamaica",2743
+"171","Queens","Jamaica Estates-Holliswood",3986
+"172","Queens","Kew Gardens",1763
+"173","Queens","Kew Gardens Hills",4432
+"174","Queens","Laurelton",3458
+"175","Queens","Lindenwood-Howard Beach",4342
+"176","Queens","Maspeth",2722
+"177","Queens","Middle Village",5513
+"178","Queens","Murray Hill",6897
+"179","Queens","North Corona",1243
+"180","Queens","Oakland Gardens",5123
+"181","Queens","Old Astoria",896
+"182","Queens","Ozone Park",3060
+"183","Queens","park-cemetery-etc-Queens",446
+"184","Queens","Pomonok-Flushing Heights-Hillcrest",4435
+"185","Queens","Queens Village",6013
+"186","Queens","Queensboro Hill",2664
+"187","Queens","Queensbridge-Ravenswood-Long Island City",862
+"188","Queens","Rego Park",1966
+"189","Queens","Richmond Hill",4238
+"190","Queens","Ridgewood",5382
+"191","Queens","Rosedale",4945
+"192","Queens","South Jamaica",3216
+"193","Queens","South Ozone Park",7807
+"194","Queens","Springfield Gardens North",2600
+"195","Queens","Springfield Gardens South-Brookville",2737
+"196","Queens","St. Albans",4991
+"197","Queens","Steinway",4415
+"198","Queens","Whitestone",7680
+"199","Queens","Woodhaven",4450
+"200","Queens","Woodside",2661
